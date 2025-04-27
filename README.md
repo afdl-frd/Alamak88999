@@ -11,14 +11,20 @@
 
 <!--part dua-->
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+<h2 align="center">GitHub Stats</h2>
+<img align="right" alt="Coding" width="300" display="flex" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="anii693"></p>
-<p><br><br><br><br><br><br><br></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="anii693"></p>
-<br><br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&amp;theme=dark" alt="anii693"></p>
+
+![](https://github-readme-stats.vercel.app/api?username=Alamak88999&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alamak88999&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamak88999&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Alamak88999&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <br><br><br><br><br><br><br><br><br><br>
 
 <details>
