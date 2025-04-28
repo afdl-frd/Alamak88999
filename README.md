@@ -1,6 +1,6 @@
 <div style="height:300px; overflow-y:scroll; border:1px solid #ccc; padding:10px;">
   <div>
-    <img width="35"src="https://alamak88999.github.io/Snek/senku.gif">
+    <img src="https://alamak88999.github.io/Snek/Senku.gif" alt="gif">
   </div>
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://alamak88999.github.io/Snek/waving.gif">, I'm Afdal</h1>
