@@ -1,11 +1,14 @@
 <!--<div style="height:300px; overflow-y:scroll; border:1px solid #ccc; padding:10px;">-->
-![til](https://alamak88999.github.io/Snek/senku.gif)
+
+<div align="center">
+  <img width="700" height="200" size="cover"src="https://alamak88999.github.io/Snek/head.gif" alt="snake"></a>
+</div>
+
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://alamak88999.github.io/Snek/waving.gif">, I'm Afdal</h1>
 <h4 align="center">I am a student from Pontianak city<a</h4>
 </div>
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
   <img src="https://alamak88999.github.io/Snek/grid-snake.svg" alt="snake"></a>
 </div>
 <hr>
