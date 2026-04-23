@@ -8,7 +8,7 @@
 <h4 align="center">I am a student from Pontianak city<a</h4>
 </div>
 <div align="center">
-  <img src="https://alamak88999.github.io/Snek/grid-snake.svg" alt="snake"></a>
+  <img src="https://afdl-frd.github.io/Snek/grid-snake.svg" alt="snake"></a>
 </div>
 <hr>
 
